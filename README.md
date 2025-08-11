@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Mauricio Chaves
 
-<!--
-**MauricioChaves1/mauriciochaves1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor **Backend** focado em criar soluções eficientes e bem estruturadas.  
+Trabalho principalmente com **PHP** e **Laravel**, desenvolvendo APIs REST e sistemas robustos que utilizam bancos de dados como **PostgreSQL** e **MySQL**, além de soluções de cache e filas com **Redis**.  
+Também tenho experiência no uso de ferramentas de gestão como **Jira** e **Azure DevOps** para organização e acompanhamento de projetos.  
 
-Here are some ideas to get you started:
+📚 **Aprendendo:** Atualmente estou estudando **C++**, com foco no desenvolvimento de jogos e no aprimoramento da lógica de programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure DevOps" width="50" height="50"/>
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MauricioChaves1&show_icons=true&theme=dracula)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioChaves1&layout=compact&theme=dracula)
+
+---
+
+## 📫 Contato
+- 💼 [LinkedIn](https://www.linkedin.com/in/mauricio-chaves-095b8117a/)  
