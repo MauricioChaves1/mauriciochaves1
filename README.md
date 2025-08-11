@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Mauricio Chaves
 
-Sou um desenvolvedor **Backend** focado em criar soluções eficientes e bem estruturadas.  
-Trabalho principalmente com **PHP** e **Laravel**, desenvolvendo APIs REST e sistemas robustos que utilizam bancos de dados como **PostgreSQL** e **MySQL**, além de soluções de cache e filas com **Redis**.  
-Também tenho experiência no uso de ferramentas de gestão como **Jira** e **Azure DevOps** para organização e acompanhamento de projetos.  
+Sou desenvolvedor Backend, voltado para o desenvolvimento web de soluções eficientes e bem estruturadas.
+Atuo principalmente com PHP e Laravel, criando APIs REST e sistemas robustos integrados a bancos de dados como PostgreSQL e MySQL, além de implementar soluções de cache e filas com Redis.
+Tenho experiência no uso de ferramentas de gestão como Jira e Azure DevOps para organização e acompanhamento de projetos.
 
 📚 **Aprendendo:** Atualmente estou estudando **C++**, com foco no desenvolvimento de jogos e no aprimoramento da lógica de programação.
 
