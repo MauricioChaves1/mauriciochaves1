@@ -4,7 +4,15 @@ Sou desenvolvedor Backend, voltado para o desenvolvimento web de soluções efic
 Atuo principalmente com PHP e Laravel, criando APIs REST e sistemas robustos integrados a bancos de dados como PostgreSQL e MySQL, além de implementar soluções de cache e filas com Redis.
 Tenho experiência no uso de ferramentas de gestão como Jira e Azure DevOps para organização e acompanhamento de projetos.
 
-📚 **Aprendendo:** Atualmente estou estudando **C++**, com foco no desenvolvimento de jogos e no aprimoramento da lógica de programação.
+Já atuei no desenvolvimento de soluções como:
+
+Plataforma de antecipação de recebíveis — Desenvolvimento completo do backend, implementando novas funcionalidades, integrações com bancos de dados e sistemas externos, otimização de performance e segurança das transações. Atuação também na correção de bugs e manutenção contínua para garantir a estabilidade da aplicação.
+
+Sistema de assinatura digital de documentos — Desenvolvimento completo do backend, incluindo implementação de fluxos de autenticação, gerenciamento de documentos, integração com serviços de assinatura digital e melhorias na usabilidade via API. Trabalho constante na resolução de erros e aprimoramento da experiência do usuário.
+
+Arquitetura orientada a microsserviços — Planejamento e desenvolvimento de serviços independentes, com foco em escalabilidade, comunicação entre APIs e resiliência do sistema. Responsável pela manutenção isolada de cada serviço, implementação de novas funcionalidades, ajustes corretivos e preventivos, além de disponibilizar APIs para que outras empresas pudessem integrar e utilizar os serviços de forma segura e eficiente.
+
+📚 Aprendendo: Atualmente estou estudando C++, com foco no desenvolvimento de jogos e no aprimoramento da lógica de programação
 
 ---
 
