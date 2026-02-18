@@ -34,5 +34,12 @@ Estudei C++ com foco em desenvolvimento de jogos, mas realizei uma pausa para fo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure DevOps" width="50" height="50"/>
 </p>
 ---
+
+
+
+
 ## 📫 Contato
-- 💼 [LinkedIn](https://www.linkedin.com/in/mauricio-chaves-095b8117a/)  
+<a href="https://www.linkedin.com/in/mauricio-chaves-095b8117a/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20" height="20"/>
+</a> LinkedIn
+
