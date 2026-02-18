@@ -33,14 +33,6 @@ Estudei C++ com foco em desenvolvimento de jogos, mas realizei uma pausa para fo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure DevOps" width="50" height="50"/>
 </p>
-
 ---
-
-## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MauricioChaves1&show_icons=true&theme=dracula)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioChaves1&layout=compact&theme=dracula)
-
----
-
 ## 📫 Contato
 - 💼 [LinkedIn](https://www.linkedin.com/in/mauricio-chaves-095b8117a/)  
